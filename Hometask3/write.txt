@@ -1,0 +1,27 @@
+
+!!!Counter 1 : 2016-03-29 10:17:36!!!
+CPU: scputimes(user=30745.32, nice=0.43, system=10073.28, idle=13701.86, iowait=146.23, irq=228.44, softirq=30.43, steal=0.0, guest=0.0)
+CPU in percent: 0.0%
+Memory usage: 1869Mb
+Disk 27661Mb
+Disk IO 0Mb
+Net_Counter {'lo': snetio(bytes_sent=40948, bytes_recv=40948, packets_sent=295, packets_recv=295, errin=0, errout=0, dropin=0, dropout=0), 'virbr0': snetio(bytes_sent=0, bytes_recv=0, packets_sent=0, packets_recv=0, errin=0, errout=0, dropin=0, dropout=0), 'virbr0-nic': snetio(bytes_sent=0, bytes_recv=0, packets_sent=0, packets_recv=0, errin=0, errout=0, dropin=0, dropout=0), 'eth0': snetio(bytes_sent=471606, bytes_recv=285461689, packets_sent=4047, packets_recv=4057836, errin=0, errout=0, dropin=0, dropout=0)}
+
+
+!!!Counter 2 : 2016-03-29 10:22:36!!!
+CPU: scputimes(user=30745.32, nice=0.43, system=10073.28, idle=13701.86, iowait=146.23, irq=228.44, softirq=30.43, steal=0.0, guest=0.0)
+CPU in percent: 0.0%
+Memory usage: 1869Mb
+Disk 27661Mb
+Disk IO 0Mb
+Net_Counter {'lo': snetio(bytes_sent=40948, bytes_recv=40948, packets_sent=295, packets_recv=295, errin=0, errout=0, dropin=0, dropout=0), 'virbr0': snetio(bytes_sent=0, bytes_recv=0, packets_sent=0, packets_recv=0, errin=0, errout=0, dropin=0, dropout=0), 'virbr0-nic': snetio(bytes_sent=0, bytes_recv=0, packets_sent=0, packets_recv=0, errin=0, errout=0, dropin=0, dropout=0), 'eth0': snetio(bytes_sent=471606, bytes_recv=285461689, packets_sent=4047, packets_recv=4057836, errin=0, errout=0, dropin=0, dropout=0)}
+
+
+!!!Counter 3 : 2016-03-29 10:27:37!!!
+CPU: scputimes(user=30745.32, nice=0.43, system=10073.28, idle=13701.86, iowait=146.23, irq=228.44, softirq=30.43, steal=0.0, guest=0.0)
+CPU in percent: 0.0%
+Memory usage: 1869Mb
+Disk 27661Mb
+Disk IO 0Mb
+Net_Counter {'lo': snetio(bytes_sent=40948, bytes_recv=40948, packets_sent=295, packets_recv=295, errin=0, errout=0, dropin=0, dropout=0), 'virbr0': snetio(bytes_sent=0, bytes_recv=0, packets_sent=0, packets_recv=0, errin=0, errout=0, dropin=0, dropout=0), 'virbr0-nic': snetio(bytes_sent=0, bytes_recv=0, packets_sent=0, packets_recv=0, errin=0, errout=0, dropin=0, dropout=0), 'eth0': snetio(bytes_sent=471606, bytes_recv=285461689, packets_sent=4047, packets_recv=4057836, errin=0, errout=0, dropin=0, dropout=0)}
+
