@@ -1,0 +1,12 @@
+2016-03-30 23:21:00 INFO module 'task' is in progress
+2016-03-30 23:21:25 ERROR module 'task' Failed to create a class object
+Traceback (most recent call last):
+  File "/root/mypackage/Hometask5/task.py", line 89, in <module>
+    a = 1/0
+ZeroDivisionError: integer division or modulo by zero
+2016-03-30 23:21:25 INFO module 'task' is in progress
+2016-03-30 23:22:25 ERROR module 'task' Error occured in the main cycle
+Traceback (most recent call last):
+  File "/root/mypackage/Hometask5/task.py", line 95, in <module>
+    1/0
+ZeroDivisionError: integer division or modulo by zero
